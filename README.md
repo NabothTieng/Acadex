@@ -14,3 +14,6 @@ Acadex is a productivity web application designed to simplify campus life for st
 - **Supabase Account**: Create a project at [supabase.com](https://supabase.com).
 - **Vercel Account**: For deployment (optional).
 - **Docker**: For containerized development or deployment (optional).
+
+
+Contact me for any question through [My Email](mailto:Nabothtieng@gmail.com)
